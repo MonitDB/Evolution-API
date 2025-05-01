@@ -1,0 +1,3 @@
+evolution-api/.env
+postgres/.env
+redis/.env
